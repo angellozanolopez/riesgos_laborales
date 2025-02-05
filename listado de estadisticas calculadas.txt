@@ -1,0 +1,12 @@
+Estadisticas calculadas
+1. Cuantos sectores aparecen en el dataset
+2. Listado de todos los sectores
+3. Cuantos clientes hay en todo el dataset
+4. Cuantos tipos de riesgo hay en el dataset
+5. Por cada cliente, cuantas veces aparece cada riesgo
+6. Por cada cliente, cual es el riesgo que mas se repite
+7. Numero de riesgos en cada sector
+8. Riesgos mas frecuentes en cada sector
+9. Riesgos que aparecen en una empresa determinada pero no acostumbran a ocurrir
+10. Riesgos mas comunes en una empresa determinada
+11. Cuantas evaluaciones ha pasado una empresa determinada
